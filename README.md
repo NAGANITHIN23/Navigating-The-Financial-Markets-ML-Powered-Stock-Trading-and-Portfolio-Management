@@ -2,6 +2,7 @@
 Welcome to our algorithmic trading repository, where we've programmed our trading algorithms using Python, a versatile and powerful programming language. Our goal is to provide a comprehensive platform for automated trading in the forex market.
 
 Key Features:
+
 API Integration: We've seamlessly integrated with the OANDA forex broker using their APIs. This enables us to access real-time market data and execute trades directly from our Python environment.
 
 Real-time Market Data: We make use of live data feeds from OANDA, ensuring that we have up-to-the-minute information on currency pairs, price quotes, trading volumes, and more.
